@@ -71,6 +71,6 @@ Couple of infographics that I have produced during the development of the USDM
 
 ## Presentations on Behalf of CDISC
 
-A series of presentations going back over the last few years from a number of different conferneces. These presentations were presented on behalf of CDISC. Link is to the [whole directory](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/cdisc/presentations). File names contain the date, the conference and presenter.
+A series of presentations going back over the last few years from a number of different conferneces. These presentations were presented on behalf of CDISC. Link is to the [whole directory](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/presentations/cdisc). File names contain the date, the conference and presenter.
 
 
