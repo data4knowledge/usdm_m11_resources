@@ -79,3 +79,5 @@ Information about the PRISM pilot.
 
 - Presentation by Ginny Hussong at the [PHUSE CSS](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/presentations/fda/2024%2006%20CSS%20PRISM.pdf) meeting in June 2024
 - Good [background and overview](https://www.agencyiq.com/blog/another-cloud-in-the-sky-fda-and-industry-team-up-to-test-prism-a-new-regulatory-cloud-submissions-platform/) in this article
+- A single slide used to provide an overview of the [PRISM technology](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/presentations/cdisc/2025%2001%2016%20PRISM%20-%20DIH.pdf)
+ 
