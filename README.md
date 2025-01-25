@@ -73,4 +73,9 @@ Couple of infographics that I have produced during the development of the USDM
 
 A series of presentations going back over the last few years from a number of different conferneces. These presentations were presented on behalf of CDISC. Link is to the [whole directory](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/presentations/cdisc). File names contain the date, the conference and presenter.
 
+## PRISM
 
+Information about the PRISM pilot.
+
+- Presentation by Ginny Hussong at the [PHUSE CSS](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/presentations/fda/2024%2006%20CSS%20PRISM.pdf) meeting in June 2024
+- Good [background and overview]()https://www.agencyiq.com/blog/another-cloud-in-the-sky-fda-and-industry-team-up-to-test-prism-a-new-regulatory-cloud-submissions-platform/ in this article
