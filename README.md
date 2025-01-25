@@ -11,9 +11,10 @@ This is an informative repo just holding a series of resource related to the Uni
 The ICH M11 [Concept Paper](https://database.ich.org/sites/default/files/M11_EWG_Concept_Paper.pdf) states
 
 > This Concept Paper supports a proposal for a new harmonised guideline that specifies comprehensive clinical protocol organization with standardized content with both required and optional components. The working group will deliver the following:
+
 > - Guideline outlining two main sets of harmonised approaches 
-    - a template to include identification of headers, common text and a set of data fields and terminologies which will be the basis for efficiencies in data exchange
-    - a technical specification that uses an open, nonproprietary standard to enable electronic exchange of clinical protocol information
+>   - a template to include identification of headers, common text and a set of data fields and terminologies which will be the basis for efficiencies in data exchange
+>   - a technical specification that uses an open, nonproprietary standard to enable electronic exchange of clinical protocol information
 
 As an aside, the full M11 title is "CLINICAL ELECTRONIC STRUCTURED HARMONISED PROTOCOL (CeSHarP)" ... eProtocol
 
