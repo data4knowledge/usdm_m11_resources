@@ -6,22 +6,22 @@ This is an informative repo just holding a series of resource related to the Uni
 
 # ICH M11
 
-### General
+## General
 
 The ICH M11 [Concept Paper](https://database.ich.org/sites/default/files/M11_EWG_Concept_Paper.pdf) states
 
 > This Concept Paper supports a proposal for a new harmonised guideline that specifies comprehensive clinical protocol organization with standardized content with both required and optional components. The working group will deliver the following:
 > - Guideline outlining two main sets of harmonised approaches 
-  - a template to include identification of headers, common text and a set of data fields and terminologies which will be the basis for efficiencies in data exchange
-  - a technical specification that uses an open, nonproprietary standard to enable electronic exchange of clinical protocol information
+    - a template to include identification of headers, common text and a set of data fields and terminologies which will be the basis for efficiencies in data exchange
+    - a technical specification that uses an open, nonproprietary standard to enable electronic exchange of clinical protocol information
 
 As an aside, the full M11 title is "CLINICAL ELECTRONIC STRUCTURED HARMONISED PROTOCOL (CeSHarP)" ... eProtocol
 
-### M11 Working Group
+## M11 Working Group
 
 Information on M11 is a little difficult to find on the [ICH web site](https://www.ich.org/), you really have to look quite hard. Details on the working groups can be found on the [Working Groups](https://www.ich.org/page/multidisciplinary-guidelines) page. Click on the M11 section, you might need to scroll down. 
 
-### M11 Documents
+## M11 Documents
 
 Clicking on the links on the working group page will get you to the latest public draft of the M11 specifications and the latest workplan
 
