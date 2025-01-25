@@ -56,5 +56,18 @@ Note the "Deliverables" directory within the repo where you will find ... the de
 
 In the "Documents" directory you will find supporting information and examples
 
-## Background
+# Background Information
+
+## General
+
+The following are diagrams, slides decks etc that I tend to reach for as I am talking about USDM and M11
+
+## Infographics
+
+Couple of infographics that I have produced during the development of the USDM
+
+- Use Cases. This was prepared for the DDF in Action day held in October 2024 in Copenhagen and New Jersey. I created this to show the range of touch points for eProtocol. [Use Case Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/use%20cases.png)
+- USDM and a Typical Protocol. This is an attempt to show where the items within an exisitng protocol go in USDM. A little old now but still relevant. [Protocol Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/protocol.png)
+
+
 
