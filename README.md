@@ -16,7 +16,7 @@ The ICH M11 [Concept Paper](https://database.ich.org/sites/default/files/M11_EWG
 >   - a template to include identification of headers, common text and a set of data fields and terminologies which will be the basis for efficiencies in data exchange
 >   - a technical specification that uses an open, nonproprietary standard to enable electronic exchange of clinical protocol information
 
-As an aside, the full M11 title is "CLINICAL ELECTRONIC STRUCTURED HARMONISED PROTOCOL (CeSHarP)" ... eProtocol
+As an aside, the full M11 title is "CLINICAL ELECTRONIC STRUCTURED HARMONISED PROTOCOL (CeSHarP)" ... eProtocol to you and me.
 
 ## M11 Working Group
 
