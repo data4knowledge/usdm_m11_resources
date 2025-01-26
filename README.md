@@ -72,7 +72,7 @@ The following are diagrams, slides decks etc that I tend to reach for as I am ta
 
 Couple of infographics that I have produced during the development of the USDM
 
-- Use Cases. This was prepared for the DDF in Action day held in October 2024 in Copenhagen and New Jersey. I created this to show the range of touch points for eProtocol. [Use Case Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/use%20cases.png). I did a LinkedIn post of this, [see here]{https://www.linkedin.com/feed/update/urn:li:activity:7255527712906199042/}
+- Use Cases. This was prepared for the DDF in Action day held in October 2024 in Copenhagen and New Jersey. I created this to show the range of touch points for eProtocol. [Use Case Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/use%20cases.png). I did a LinkedIn post of this, [see here](https://www.linkedin.com/feed/update/urn:li:activity:7255527712906199042/)
 - USDM and a Typical Protocol. This is an attempt to show where the items within an exisitng protocol go in USDM. A little old now but still relevant. [Protocol Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/protocol.png)
 
 ## Presentations on Behalf of CDISC
