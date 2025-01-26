@@ -24,13 +24,13 @@ Information on M11 is a little difficult to find on the [ICH web site](https://w
 
 ## M11 Documents
 
-Clicking on the links on the working group page will get you to the latest public draft of the M11 specifications and the latest workplan
+Clicking on the links on the working group page will get you to the latest public drafts of the M11 specifications and the latest workplan
 
 - [Template Specification](https://database.ich.org/sites/default/files/ICH_M11_Template_Step2_2022_0904.pdf)
 - [Technical Specification](https://database.ich.org/sites/default/files/ICH_M11_TechnicalSpecification_Step2_2022_1014.pdf) 
 - [Work Plan](https://database.ich.org/sites/default/files/ICH_M11_EWG_WorkPlan_2024_0812.pdf)
 
-The template and techncial specifications publish here are the latest "public" versions. They are quite old (from late 2022, the last public review) and there are more recent internal drafts. Hopefully these will be generally available but I suspect this will not be until around Q3 / Q4 2025, see the work plan. 
+The template and techncial specifications published here are the latest "public" versions. They are quite old (from late 2022, the last public review) and there are more recent internal drafts. Hopefully these will be generally available but I suspect this will not be until around Q3 / Q4 2025, see the work plan. 
 
 The work plan is predicting the FHIR message support for Q2 2026.
 
@@ -66,7 +66,7 @@ The following are diagrams, slides decks etc that I tend to reach for as I am ta
 
 Couple of infographics that I have produced during the development of the USDM
 
-- Use Cases. This was prepared for the DDF in Action day held in October 2024 in Copenhagen and New Jersey. I created this to show the range of touch points for eProtocol. [Use Case Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/use%20cases.png)
+- Use Cases. This was prepared for the DDF in Action day held in October 2024 in Copenhagen and New Jersey. I created this to show the range of touch points for eProtocol. [Use Case Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/use%20cases.png). I did a LinkedIn post of this, [see here]{https://www.linkedin.com/feed/update/urn:li:activity:7255527712906199042/}
 - USDM and a Typical Protocol. This is an attempt to show where the items within an exisitng protocol go in USDM. A little old now but still relevant. [Protocol Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/protocol.png)
 
 ## Presentations on Behalf of CDISC
