@@ -56,6 +56,12 @@ Note the "Deliverables" directory within the repo where you will find ... the de
 
 In the "Documents" directory you will find supporting information and examples
 
+# Tools
+
+## Study Definition Workbench
+
+- Access to the tool is via [this link](https://d4k-sdw.fly.dev).
+- LinkedIn [article here](https://www.linkedin.com/feed/update/urn:li:activity:7284824136701399040/).
 # Background Information
 
 ## General
