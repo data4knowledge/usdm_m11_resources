@@ -42,9 +42,27 @@ USDM, the Unified Study Definitions Model, is a new [CDISC](www.cdisc.org) stand
 
 The USDM is focused on protocol digitization. See [the CDISC DDF page](https://www.cdisc.org/ddf) where there are plenty of links to various USDM & DDF resources.
 
-## CDISC USDM GitHub
+## Phases
 
-The main repo for USDM is the CDISC [USDM repo](https://github.com/cdisc-org/DDF-RA)
+There have been four phases of development to date
+
+- Phase 1: An initial model
+- Phase 2: Added in detail around the SoA
+- Phase 3: Initial alignment with M11 and move to handing the whole protocol as a document within the model
+- Phase 4: Current phase that will result in the v4 release in April 2025. More complex use cases and further alignment to M11
+
+To look at the various release use the tags within the CDISC DDF-RA (Digital Data Flow - Reference Architecture) GitHub, see below.
+
+## CDISC DDF-RA USDM GitHub
+
+### Deliverables
+
+Just a remiinder:
+
+- DDF: Digital Data Flow
+- RA: Reference Architecture
+
+The main repo for USDM is the CDISC [DDF-RA USDM repo](https://github.com/cdisc-org/DDF-RA)
 
 Note the "Deliverables" directory within the repo where you will find ... the deliverables:
 
@@ -54,7 +72,12 @@ Note the "Deliverables" directory within the repo where you will find ... the de
 - CORE, validation rules using the CDISC CORE engine
 - IG, The Implementation Guide
 
-In the "Documents" directory you will find supporting information and examples
+### Supporting Info
+
+In the "Documents" directory you will find supporting information and examples. Couple of things worth noting
+
+- [Informational diagram](https://github.com/cdisc-org/DDF-RA/blob/main/Documents/DDF%20USDM%20Model%20Informative.png). This is a different representation of the UML, with API infomration added, see the key top right.
+- The [changes directory](https://github.com/cdisc-org/DDF-RA/tree/main/Documents/Changes) holds the changes made during phase 3.
 
 # Tools
 
