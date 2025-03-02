@@ -85,6 +85,7 @@ In the "Documents" directory you will find supporting information and examples. 
 
 - Access to the tool is via [this link](https://d4k-sdw.fly.dev).
 - LinkedIn [article here](https://www.linkedin.com/feed/update/urn:li:activity:7284824136701399040/).
+
 # Background Information
 
 ## General
@@ -101,6 +102,13 @@ Couple of infographics that I have produced during the development of the USDM
 ## Presentations on Behalf of CDISC
 
 A series of presentations going back over the last few years from a number of different conferneces. These presentations were presented on behalf of CDISC. Link is to the [whole directory](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/presentations/cdisc). File names contain the date, the conference and presenter.
+
+## 2024 "DDF in Action" Day
+
+The DDF in Action day was held in October 2024 in Copenhagen and New Jersey. It was day for sponsors, vendors and others to share eperiences and information about DDF and to see, well, DDF in action! Couple of items from the day:
+
+- The use cases infrographic, [Use Case Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/use%20cases.png) and associated [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7255527712906199042/) (repeated from above).
+- [Official TransCelerate][https://transcelerate.github.io/ddf-home/documents/DDF%20in%20Action%20Day%20Readout.pdf] readout from the day.
 
 ## PRISM
 
