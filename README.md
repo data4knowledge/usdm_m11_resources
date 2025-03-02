@@ -108,7 +108,7 @@ A series of presentations going back over the last few years from a number of di
 The DDF in Action day was held in October 2024 in Copenhagen and New Jersey. It was day for sponsors, vendors and others to share eperiences and information about DDF and to see, well, DDF in action! Couple of items from the day:
 
 - The use cases infrographic, [Use Case Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/use%20cases.png) and associated [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7255527712906199042/) (repeated from above).
-- [Official TransCelerate][https://transcelerate.github.io/ddf-home/documents/DDF%20in%20Action%20Day%20Readout.pdf] readout from the day.
+- [Official TransCelerate](https://transcelerate.github.io/ddf-home/documents/DDF%20in%20Action%20Day%20Readout.pdf) readout from the day.
 
 ## PRISM
 
