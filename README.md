@@ -32,6 +32,8 @@ Clicking on the links on the working group page will get you to the latest publi
 
 The template and techncial specifications published here are the latest "public" versions. They are quite old (from late 2022, the last public review) and there are more recent internal drafts. Hopefully these will be generally available but I suspect this will not be until around Q3 / Q4 2025, see the work plan. 
 
+We are hoping to see the finalised Template specification and the Technical specification for public review sometime in March / April 2025 (see the work plan that states this for March 2025). However, this has been delayed due to the recent FDA communication hiatus.
+
 The work plan is predicting the FHIR message support for Q2 2026.
 
 # USDM
