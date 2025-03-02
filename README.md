@@ -111,8 +111,8 @@ The DDF in Action day was held in October 2024 in Copenhagen and New Jersey. It 
 
 - The use cases infrographic, [Use Case Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/use%20cases.png) and associated [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7255527712906199042/) (repeated from above).
 - [Official TransCelerate](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/ddf-in-action/DDF%20in%20Action%20Day%20Readout.pdf) readout from the day.
-- [CPH slide deck](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/ddf-in-action/DDF%20in%20Action%20Day%20Presentation_Copenhagen_FOR DISTRIBUTION.pdf) 
-- [NJ slide deck](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/ddf-in-action/DDF%20in%20Action%20Day%20Presentation_NJ_FOR DISTRIBUTION.pdf)
+- [CPH slide deck](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/ddf-in-action/DDF%20in%20Action%20Day%20Presentation_CPH.pdf) 
+- [NJ slide deck](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/ddf-in-action/DDF%20in%20Action%20Day%20Presentation_NJpdf)
 
 The official TransCelerate [Report Page](https://transcelerate.github.io/ddf-home/ddf-in-action.html)
 
