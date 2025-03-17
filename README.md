@@ -24,17 +24,16 @@ Information on M11 is a little difficult to find on the [ICH web site](https://w
 
 ## M11 Documents
 
-Clicking on the links on the working group page will get you to the latest public drafts of the M11 specifications and the latest workplan
+Clicking on the links on the working group page will get you to the latest public drafts of the M11 specifications and the latest workplan. The latest template and techncial specifications were published in mid-March 2025.
 
-- [Template Specification](https://database.ich.org/sites/default/files/ICH_M11_Template_Step2_2022_0904.pdf)
-- [Technical Specification](https://database.ich.org/sites/default/files/ICH_M11_TechnicalSpecification_Step2_2022_1014.pdf) 
+- [Template Specifcation](https://database.ich.org/sites/default/files/ICH_M11_Template_Updated%20Step%202_ForReferenceOnly_2025_0203.pdf)
+- [Technical Specofocation](https://database.ich.org/sites/default/files/ICH_M11_Technical%20Specification_Updated%20Step%202_2025_0203.pdf)
 - [Work Plan](https://database.ich.org/sites/default/files/ICH_M11_EWG_WorkPlan_2024_0812.pdf)
 
-The template and techncial specifications published here are the latest "public" versions. They are quite old (from late 2022, the last public review) and there are more recent internal drafts. Hopefully these will be generally available but I suspect this will not be until around Q3 / Q4 2025, see the work plan. 
+The previous versions (from 2022) can be found here
 
-We are hoping to see the finalised Template specification and the Technical specification for public review sometime in March / April 2025 (see the work plan that states this for March 2025). However, this has been delayed due to the recent FDA communication hiatus.
-
-The work plan is predicting the FHIR message support for Q2 2026.
+- [Template Specification](https://database.ich.org/sites/default/files/ICH_M11_Template_Step2_2022_0904.pdf)
+- [Technical Specification](https://database.ich.org/sites/default/files/ICH_M11_TechnicalSpecification_Step2_2022_1014.pdf)
 
 # USDM
 
