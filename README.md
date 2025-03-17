@@ -27,7 +27,7 @@ Information on M11 is a little difficult to find on the [ICH web site](https://w
 Clicking on the links on the working group page will get you to the latest public drafts of the M11 specifications and the latest workplan. The latest template and techncial specifications were published in mid-March 2025.
 
 - [Template Specifcation](https://database.ich.org/sites/default/files/ICH_M11_Template_Updated%20Step%202_ForReferenceOnly_2025_0203.pdf)
-- [Technical Specofocation](https://database.ich.org/sites/default/files/ICH_M11_Technical%20Specification_Updated%20Step%202_2025_0203.pdf)
+- [Technical Specification](https://database.ich.org/sites/default/files/ICH_M11_Technical%20Specification_Updated%20Step%202_2025_0203.pdf)
 - [Work Plan](https://database.ich.org/sites/default/files/ICH_M11_EWG_WorkPlan_2024_0812.pdf)
 
 The previous versions (from 2022) can be found here
