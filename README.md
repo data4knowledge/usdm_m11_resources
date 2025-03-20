@@ -24,13 +24,17 @@ Information on M11 is a little difficult to find on the [ICH web site](https://w
 
 ## M11 Documents
 
-Clicking on the links on the working group page will get you to the latest public drafts of the M11 specifications and the latest workplan. The latest template and techncial specifications were published in mid-March 2025.
+Clicking on the links on the working group page will get you to the public drafts of the M11 specifications and the latest workplan. The template and techncial specifications were published in mid-March 2025 and are now out for public review:
 
 - [Template Specifcation](https://database.ich.org/sites/default/files/ICH_M11_Template_Updated%20Step%202_ForReferenceOnly_2025_0203.pdf)
 - [Technical Specification](https://database.ich.org/sites/default/files/ICH_M11_Technical%20Specification_Updated%20Step%202_2025_0203.pdf)
 - [Work Plan](https://database.ich.org/sites/default/files/ICH_M11_EWG_WorkPlan_2024_0812.pdf)
 
-The previous versions (from 2022) can be found here
+The links below take you to the regualtory authority pages relating to the new documents and the associated review.
+
+- [EMA's M11 Page](https://www.ema.europa.eu/en/ich-m11-guideline-clinical-study-protocol-template-technical-specifications-scientific-guideline)
+
+The previous versions of the M11 documents (from 2022) can be found here:
 
 - [Template Specification](https://database.ich.org/sites/default/files/ICH_M11_Template_Step2_2022_0904.pdf)
 - [Technical Specification](https://database.ich.org/sites/default/files/ICH_M11_TechnicalSpecification_Step2_2022_1014.pdf)
