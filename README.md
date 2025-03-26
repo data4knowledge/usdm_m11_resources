@@ -32,6 +32,7 @@ Clicking on the links on the working group page will get you to the public draft
 
 The links below take you to the regualtory authority pages relating to the new documents and the associated review.
 
+- [ICH Comment Process][https://www.ich.org/page/public-consultations]
 - [EMA's M11 Page](https://www.ema.europa.eu/en/ich-m11-guideline-clinical-study-protocol-template-technical-specifications-scientific-guideline)
 
 The previous versions of the M11 documents (from 2022) can be found here:
