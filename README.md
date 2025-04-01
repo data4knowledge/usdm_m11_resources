@@ -32,9 +32,10 @@ Clicking on the links on the working group page will get you to the public draft
 
 The links below take you to the regualtory authority pages relating to the new documents and the associated review.
 
-- [ICH Comment Process](https://www.ich.org/page/public-consultations)
-- [EMA's M11 Page](https://www.ema.europa.eu/en/ich-m11-guideline-clinical-study-protocol-template-technical-specifications-scientific-guideline)
-- [Taiwan FDA](https://www.fda.gov.tw/TC/siteContent.aspx?sid=13288)
+- [ICH, Review / Comment Process](https://www.ich.org/page/public-consultations)
+- [EU, EMA M11 Review](https://www.ema.europa.eu/en/ich-m11-guideline-clinical-study-protocol-template-technical-specifications-scientific-guideline)
+- [Taiwan, FDA M11 Review](https://www.fda.gov.tw/TC/siteContent.aspx?sid=13288)
+- [Japan, MHLW M11 Review](https://public-comment.e-gov.go.jp/pcm/detail?CLASSNAME=PCMMSTDETAIL&id=495240433&Mode=0)
 
 The previous versions of the M11 documents (from 2022) can be found here:
 
