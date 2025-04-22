@@ -51,8 +51,8 @@ USDM, the Unified Study Definitions Model, is a new [CDISC](www.cdisc.org) stand
 The USDM is focused on protocol digitization. See [the CDISC DDF page](https://www.cdisc.org/ddf) where there are plenty of links to various USDM & DDF resources. Links off to the various CDISC and TransCelerate resources can be found here including:
 
 - [CDISC DDF page](https://www.cdisc.org/ddf)
-- [DDF Website](https://transcelerate.github.io/ddf-home/index.html)
-- [DDF GitHub](https://github.com/transcelerate/ddf-sdr-platform)
+- [TransCelerate DDF Website](https://transcelerate.github.io/ddf-home/index.html)
+- [TransCelerate DDF GitHub](https://github.com/transcelerate/ddf-sdr-platform)
 - [TransCelerate DDF Solutions](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/)
 
 Also there is the CDISC DDF-RA GitHub (see more below)
