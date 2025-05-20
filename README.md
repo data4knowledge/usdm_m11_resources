@@ -119,7 +119,7 @@ Couple of infographics that I have produced during the development of the USDM
 
 ## Posters
 
-- ICH M11, USDM etc. A poster from the PHUSE CSS meeting held in Utrecht in May 2025 looking at the big picture. [USDM M11 Poster](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/phuse_2025_css_poster)
+- ICH M11, USDM etc. A poster from the PHUSE CSS meeting held in Utrecht in May 2025 looking at the big picture. [USDM M11 Poster](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/phuse_2025_css_poster.pdf)
 
 ## Presentations on Behalf of CDISC
 
