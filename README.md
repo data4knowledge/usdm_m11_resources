@@ -66,7 +66,7 @@ There have been four phases of development to date
 - Phase 1: An initial model
 - Phase 2: Added in detail around the SoA
 - Phase 3: Initial alignment with M11 and move to handing the whole protocol as a document within the model
-- Phase 4: Current phase that will result in the v4 release in April 2025. More complex use cases and further alignment to M11
+- Phase 4: More complex use cases and further alignment to M11. Release in June 2025.
 
 To look at the various release use the tags within the CDISC DDF-RA (Digital Data Flow - Reference Architecture) GitHub, see below.
 
@@ -115,7 +115,9 @@ Couple of infographics that I have produced during the development of the USDM
 
 - Use Cases. This was prepared for the DDF in Action day held in October 2024 in Copenhagen and New Jersey. I created this to show the range of touch points for eProtocol. [Use Case Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/use%20cases.png). I did a LinkedIn post of this, [see here](https://www.linkedin.com/feed/update/urn:li:activity:7255527712906199042/)
 - USDM and a Typical Protocol. This is an attempt to show where the items within an exisitng protocol go in USDM. A little old now but still relevant. [Protocol Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/protocol.png)
-- USDM and M11. This infographic shows where content from an M11 protocol document goes into USDM. based on the latest public review version of the template. [USDM M11 Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/usdm_m11.pdf)
+- USDM and M11 Protocol. This infographic shows where content from an M11 protocol document goes into USDM. Based on the latest public review version of the template. Now updated for USDM v4. [USDM M11 Template Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/usdm_m11.pdf)
+- USDM and M11 Classes. This infographic shows which USDM classes are used to support the M11 protocol template. Based on the latest public review version of the template and USDM v4. [USDM M11 Classes Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/usdm_m11_classes.pdf)
+
 
 ## Posters
 
