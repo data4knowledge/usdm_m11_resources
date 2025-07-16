@@ -124,6 +124,11 @@ Couple of infographics that I have produced during the development of the USDM
 
 - ICH M11, USDM etc. A poster from the PHUSE CSS meeting held in Utrecht in May 2025 looking at the big picture. [USDM M11 Poster](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/phuse_2025_css_poster.pdf)
 
+## Articles
+
+- [BioMedical Concepts – The Key to Unlocking Meaningful Clinical Data](https://www.clinflo.com/biomedical-concepts-the-key-to-unlocking-meaningful-clinical-data/) by Doug Bain.
+- [Unlocking Clinical Trial Efficiency with the Unified Study Definition Model (USDM)](https://www.linkedin.com/pulse/unlocking-clinical-trial-efficiency-unified-study-basia-7huoe/?trackingId=h2LFLnjTRoK10O%2BR6bLI9g%3D%3D) by Basia Coulter, Ph.D., M.Sc.
+
 ## Presentations on Behalf of CDISC
 
 A series of presentations going back over the last few years from a number of different conferneces. These presentations were presented on behalf of CDISC. Link is to the [whole directory](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/presentations/cdisc). File names contain the date, the conference and presenter.
