@@ -123,7 +123,7 @@ Couple of infographics that I have produced during the development of the USDM
 ## Posters
 
 - ICH M11, USDM etc. A poster from the PHUSE CSS meeting held in Utrecht in May 2025 looking at the big picture. [USDM M11 Poster](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/phuse_2025_css_poster.pdf)
-- Protocol to SDTM in 15 mins. Is it Possible?. A poster from the TransCelerate Mission Possible 2025 event held in New Jersey and Basel, September 2025. [Protocol to SDTM in 15 mins ...](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/mission_possible_2025_poster.pdf)
+- USDM & SDTM. A poster from the TransCelerate Mission Possible 2025 event held in New Jersey and Basel, September 2025. [Protocol to SDTM in 15 mins. Is it Possible?](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/mission_possible_2025_poster.pdf)
 
 ## Articles
 
