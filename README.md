@@ -149,6 +149,10 @@ The DDF in Action day was held in October 2024 in Copenhagen and New Jersey. It 
 
 The official TransCelerate [Report Page](https://transcelerate.github.io/ddf-home/ddf-in-action.html)
 
+## White Papers
+
+- TransCelerate white paper [Practical Approach to Implementing Digital Data Flow: A Framework to Getting Started](https://transcelerate.github.io/ddf-home/documents/white_paper/DDF_Practical_Approach_to_Implementation.pdf)
+
 ## PRISM
 
 Information about the PRISM pilot.
