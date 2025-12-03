@@ -88,6 +88,10 @@ In the "Documents" directory you will find supporting information and examples. 
 - Access to the tool is via [this link](https://d4k-sdw.fly.dev).
 - LinkedIn [article here](https://www.linkedin.com/feed/update/urn:li:activity:7284824136701399040/).
 
+## Protocol2USDM
+
+- Access the [Github library](https://github.com/Panikos/Protocol2USDMv3) and look at the readme
+
 # Background Information
 
 ## General
