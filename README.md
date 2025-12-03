@@ -24,17 +24,23 @@ Information on M11 is a little difficult to find on the [ICH web site](https://w
 
 ## M11 Documents
 
-Clicking on the links on the working group page will get you to the latest public drafts of the M11 specifications and the latest workplan
+Clicking on the links on the working group page will get you to the public drafts of the M11 specifications and the latest workplan. The template and techncial specifications were published in mid-March 2025 and are now out for public review:
 
-- [Template Specification](https://database.ich.org/sites/default/files/ICH_M11_Template_Step2_2022_0904.pdf)
-- [Technical Specification](https://database.ich.org/sites/default/files/ICH_M11_TechnicalSpecification_Step2_2022_1014.pdf) 
+- [Template Specifcation](https://database.ich.org/sites/default/files/ICH_M11_Template_Updated%20Step%202_ForReferenceOnly_2025_0203.pdf)
+- [Technical Specification](https://database.ich.org/sites/default/files/ICH_M11_Technical%20Specification_Updated%20Step%202_2025_0203.pdf)
 - [Work Plan](https://database.ich.org/sites/default/files/ICH_M11_EWG_WorkPlan_2024_0812.pdf)
 
-The template and techncial specifications published here are the latest "public" versions. They are quite old (from late 2022, the last public review) and there are more recent internal drafts. Hopefully these will be generally available but I suspect this will not be until around Q3 / Q4 2025, see the work plan. 
+The links below take you to the regualtory authority pages relating to the new documents and the associated review.
 
-We are hoping to see the finalised Template specification and the Technical specification for public review sometime in March / April 2025 (see the work plan that states this for March 2025). However, this has been delayed due to the recent FDA communication hiatus.
+- [ICH, Review / Comment Process](https://www.ich.org/page/public-consultations)
+- [EU, EMA M11 Review](https://www.ema.europa.eu/en/ich-m11-guideline-clinical-study-protocol-template-technical-specifications-scientific-guideline)
+- [Taiwan, FDA M11 Review](https://www.fda.gov.tw/TC/siteContent.aspx?sid=13288)
+- [Japan, MHLW M11 Review](https://public-comment.e-gov.go.jp/pcm/detail?CLASSNAME=PCMMSTDETAIL&id=495240433&Mode=0)
 
-The work plan is predicting the FHIR message support for Q2 2026.
+The previous versions of the M11 documents (from 2022) can be found here:
+
+- [Template Specification](https://database.ich.org/sites/default/files/ICH_M11_Template_Step2_2022_0904.pdf)
+- [Technical Specification](https://database.ich.org/sites/default/files/ICH_M11_TechnicalSpecification_Step2_2022_1014.pdf)
 
 # USDM
 
@@ -42,7 +48,16 @@ The work plan is predicting the FHIR message support for Q2 2026.
 
 USDM, the Unified Study Definitions Model, is a new [CDISC](www.cdisc.org) standard developed in conjunction with [TransCelerate](https://www.transceleratebiopharmainc.com/). 
 
-The USDM is focused on protocol digitization. See [the CDISC DDF page](https://www.cdisc.org/ddf) where there are plenty of links to various USDM & DDF resources.
+The USDM is focused on protocol digitization. See [the CDISC DDF page](https://www.cdisc.org/ddf) where there are plenty of links to various USDM & DDF resources. Links off to the various CDISC and TransCelerate resources can be found here including:
+
+- [CDISC DDF page](https://www.cdisc.org/ddf)
+- [TransCelerate DDF Website](https://transcelerate.github.io/ddf-home/index.html)
+- [TransCelerate DDF GitHub](https://github.com/transcelerate/ddf-sdr-platform)
+- [TransCelerate DDF Solutions](https://www.transceleratebiopharmainc.com/initiatives/digital-data-flow/)
+
+Also there is the CDISC DDF-RA GitHub (see more below)
+
+- [DDF-RA USDM repo](https://github.com/cdisc-org/DDF-RA)
 
 ## Phases
 
@@ -51,7 +66,7 @@ There have been four phases of development to date
 - Phase 1: An initial model
 - Phase 2: Added in detail around the SoA
 - Phase 3: Initial alignment with M11 and move to handing the whole protocol as a document within the model
-- Phase 4: Current phase that will result in the v4 release in April 2025. More complex use cases and further alignment to M11
+- Phase 4: More complex use cases and further alignment to M11. Release in June 2025.
 
 To look at the various release use the tags within the CDISC DDF-RA (Digital Data Flow - Reference Architecture) GitHub, see below.
 
@@ -104,10 +119,28 @@ Couple of infographics that I have produced during the development of the USDM
 
 - Use Cases. This was prepared for the DDF in Action day held in October 2024 in Copenhagen and New Jersey. I created this to show the range of touch points for eProtocol. [Use Case Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/use%20cases.png). I did a LinkedIn post of this, [see here](https://www.linkedin.com/feed/update/urn:li:activity:7255527712906199042/)
 - USDM and a Typical Protocol. This is an attempt to show where the items within an exisitng protocol go in USDM. A little old now but still relevant. [Protocol Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/protocol.png)
+- USDM and M11 Protocol. This infographic shows where content from an M11 protocol document goes into USDM. Based on the latest public review version of the template. Now updated for USDM v4. [USDM M11 Template Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/usdm_m11.pdf)
+- USDM and M11 Classes. This infographic shows which USDM classes are used to support the M11 protocol template. Based on the latest public review version of the template and USDM v4. [USDM M11 Classes Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/usdm_m11_classes.pdf)
+- USDM and CT. This infographic shows all the code lists used across the USDM as a quick reference guide. Useful for implementators. As usual, zoom in to see the detail. [USDM Controlled Terminology](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/usdm_ct_infographic.pdf)
+
+
+## Posters
+
+- ICH M11, USDM etc. A poster from the PHUSE CSS meeting held in Utrecht in May 2025 looking at the big picture. [USDM M11 Poster](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/phuse_2025_css_poster.pdf)
+- USDM & SDTM. A poster from the TransCelerate Mission Possible 2025 event held in New Jersey and Basel, September 2025. [Protocol to SDTM in 15 mins. Is it Possible?](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/mission_possible_2025_poster.pdf)
+
+## Articles
+
+- [BioMedical Concepts – The Key to Unlocking Meaningful Clinical Data](https://www.clinflo.com/biomedical-concepts-the-key-to-unlocking-meaningful-clinical-data/) by Doug Bain.
+- [Unlocking Clinical Trial Efficiency with the Unified Study Definition Model (USDM)](https://www.linkedin.com/pulse/unlocking-clinical-trial-efficiency-unified-study-basia-7huoe/?trackingId=h2LFLnjTRoK10O%2BR6bLI9g%3D%3D) by Basia Coulter, Ph.D., M.Sc.
 
 ## Presentations on Behalf of CDISC
 
 A series of presentations going back over the last few years from a number of different conferneces. These presentations were presented on behalf of CDISC. Link is to the [whole directory](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/presentations/cdisc). File names contain the date, the conference and presenter.
+
+## d4k Presentations
+
+Presentations made by d4k can be found in this [directory](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/presentations/d4k)
 
 ## 2024 "DDF in Action" Day
 
@@ -119,6 +152,10 @@ The DDF in Action day was held in October 2024 in Copenhagen and New Jersey. It 
 - [NJ slide deck](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/ddf-in-action/DDF%20in%20Action%20Day%20Presentation_NJ.pdf)
 
 The official TransCelerate [Report Page](https://transcelerate.github.io/ddf-home/ddf-in-action.html)
+
+## White Papers
+
+- TransCelerate white paper [Practical Approach to Implementing Digital Data Flow: A Framework to Getting Started](https://transcelerate.github.io/ddf-home/documents/white_paper/DDF_Practical_Approach_to_Implementation.pdf)
 
 ## PRISM
 
