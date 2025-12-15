@@ -153,6 +153,16 @@ The DDF in Action day was held in October 2024 in Copenhagen and New Jersey. It 
 
 The official TransCelerate [Report Page](https://transcelerate.github.io/ddf-home/ddf-in-action.html)
 
+## 2025 "Mission Possible" Day
+
+The TransCelerate DDF September 2025 in Basel (Roche) and New Jersey (Novartis). It was the second event for sponsors, vendors and others to share eperiences and information about DDF.
+
+The official outputs from the day
+
+- [Event Summary Report](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/mission-possible/DDF_Mission_Possible_Summary_Report.pdf)
+- [Presentations](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/mission-possible/DDF_Mission_Possible_Master_Presentation.pdf)
+
+
 ## White Papers
 
 - TransCelerate white paper [Practical Approach to Implementing Digital Data Flow: A Framework to Getting Started](https://transcelerate.github.io/ddf-home/documents/white_paper/DDF_Practical_Approach_to_Implementation.pdf)
