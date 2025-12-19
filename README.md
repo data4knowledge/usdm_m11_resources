@@ -157,7 +157,7 @@ The official TransCelerate [Report Page](https://transcelerate.github.io/ddf-hom
 
 The TransCelerate DDF September 2025 in Basel (Roche) and New Jersey (Novartis). It was the second event for sponsors, vendors and others to share eperiences and information about DDF.
 
-The official outputs from the day
+The official outputs from the event:
 
 - [Event Summary Report](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/mission-possible/DDF_Mission_Possible_Summary_Report.pdf)
 - [Presentations](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/mission-possible/DDF_Mission_Possible_Master_Presentation.pdf)
