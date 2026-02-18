@@ -16,26 +16,26 @@ The ICH M11 [Concept Paper](https://database.ich.org/sites/default/files/M11_EWG
 >   - a template to include identification of headers, common text and a set of data fields and terminologies which will be the basis for efficiencies in data exchange
 >   - a technical specification that uses an open, nonproprietary standard to enable electronic exchange of clinical protocol information
 
-As an aside, the full M11 title is "CLINICAL ELECTRONIC STRUCTURED HARMONISED PROTOCOL (CeSHarP)" ... eProtocol to you and me.
+As an aside, the full M11 title is "CLINICAL ELECTRONIC STRUCTURED HARMONISED PROTOCOL (CeSHarP)" ... M11 to you and me.
 
 ## M11 Working Group
 
-Information on M11 is a little difficult to find on the [ICH web site](https://www.ich.org/), you really have to look quite hard. Details on the working groups can be found on the [Working Groups](https://www.ich.org/page/multidisciplinary-guidelines) page. Click on the M11 section, you might need to scroll down. 
+Information on M11 is a little difficult to find on the [ICH web site](https://www.ich.org/), you really have to look quite hard. Details on the working groups can be found on the [Working Groups](https://www.ich.org/page/multidisciplinary-guidelines) page. Click on the M11 section, you might need to scroll down.  The concept paper, business plan and work plan can be found here.
 
-## M11 Documents
+## Addopted M11 Versions
 
-Clicking on the links on the working group page will get you to the public drafts of the M11 specifications and the latest workplan. The template and techncial specifications were published in mid-March 2025 and are now out for public review:
+These are the final, adopted, versions of the M11 documents.
+
+- [M11 Guideline](https://database.ich.org/sites/default/files/ICH_Step4_M11_Final_Guideline_2025_1119.pdf)
+- [Template Specifcation](https://database.ich.org/sites/default/files/ICH_Step4_M11_Final_Template_2025_1119.pdf)
+- [Technical Specification](https://database.ich.org/sites/default/files/ICH_Step4_M11_Final_TechnicalSpecification_2025_1119.pdf)
+
+## Previous M11 Version
+
+These are the links to the previous versions of the M11 specifications. The template and techncial specifications were published in mid-March 2025:
 
 - [Template Specifcation](https://database.ich.org/sites/default/files/ICH_M11_Template_Updated%20Step%202_ForReferenceOnly_2025_0203.pdf)
 - [Technical Specification](https://database.ich.org/sites/default/files/ICH_M11_Technical%20Specification_Updated%20Step%202_2025_0203.pdf)
-- [Work Plan](https://database.ich.org/sites/default/files/ICH_M11_EWG_WorkPlan_2024_0812.pdf)
-
-The links below take you to the regualtory authority pages relating to the new documents and the associated review.
-
-- [ICH, Review / Comment Process](https://www.ich.org/page/public-consultations)
-- [EU, EMA M11 Review](https://www.ema.europa.eu/en/ich-m11-guideline-clinical-study-protocol-template-technical-specifications-scientific-guideline)
-- [Taiwan, FDA M11 Review](https://www.fda.gov.tw/TC/siteContent.aspx?sid=13288)
-- [Japan, MHLW M11 Review](https://public-comment.e-gov.go.jp/pcm/detail?CLASSNAME=PCMMSTDETAIL&id=495240433&Mode=0)
 
 The previous versions of the M11 documents (from 2022) can be found here:
 
@@ -129,10 +129,48 @@ Couple of infographics that I have produced during the development of the USDM
 - ICH M11, USDM etc. A poster from the PHUSE CSS meeting held in Utrecht in May 2025 looking at the big picture. [USDM M11 Poster](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/phuse_2025_css_poster.pdf)
 - USDM & SDTM. A poster from the TransCelerate Mission Possible 2025 event held in New Jersey and Basel, September 2025. [Protocol to SDTM in 15 mins. Is it Possible?](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/mission_possible_2025_poster.pdf)
 
+## Newsletter
+
+I publish a [LinkedIn newsletter](https://www.linkedin.com/newsletters/view-from-the-coffee-shop-7302649032726736896/) on USDM, M11 and related topics. 
+
+List of editions:
+
+
+| # | Title | Date | Core Argument |
+|---|-------|------|---------------|
+| 1 | **Ripples** | 4 Mar 2025 | USDM will become the single source of truth; change will reach every corner like ripples on a pond |
+| 2 | **The Document Model Dichotomy** | 11 Mar 2025 | How USDM reconciles the tension between protocol documents and structured data models — the detailed technical explanation |
+| 3 | **New ICH M11 Specifications** | 17 Mar 2025 | Announcement: M11 Technical Specification released for public review |
+| 4 | **Corners and Edges** | 24 Mar 2025 | USDM provides the missing jigsaw pieces — the foundation that frames everything else |
+| 5 | **Mapping ICH M11 to USDM: A Visual Guide** | 2 Apr 2025 | Infographic revealing the SOA as a massive structured area hidden behind a single line in M11 |
+| 6 | **Hello World** | 7 May 2025 | Most users don't need to see USDM's internals — just as Word users never see XML. A detailed walkthrough of what gets digitised and why |
+| 7 | **A Poster in Utrecht** | 20 May 2025 | PHUSE CSS poster connecting M11, USDM, and implementation; the value of face-to-face events |
+| 8 | **Thoughts From Geneva** | 21 May 2025 | Two moments at CDISC Interchange that crystallise the goal: linking study design to data so we can defeat diseases, not just speak to regulators |
+| 9 | **Diamonds in the Legs** | 4 Jun 2025 | USDM v4 released — four years of work reaches its summit. Phase 5 shifts to adoption |
+| 10 | **Hamburg and Magic Sauce** | 18 Jun 2025 | The technology demonstrator that captured industry attention; common USDM questions; preview of PHUSE Hamburg |
+| 11 | **USDM Controlled Terminology** | 25 Jun 2025 | Infographic mapping coded attributes to their controlled terminology code lists — a practical implementation aid |
+| 12 | **Solid Foundations** | 14 Jul 2025 | If one reason to adopt USDM: "solid foundation." Also addresses CRO benefits — they didn't write the protocol, so digital clarity matters even more |
+| 13 | **Train Leaving The Station** | 18 Sep 2025 | Industry had a decade for SDTM (2004–2016); there won't be a decade for M11/USDM. The train is leaving |
+| 14 | **Road to ...** | 26 Sep 2025 | Reflections from TransCelerate Mission Possible: "yes, we got this right." USDM has crossed (or is crossing) the adoption chasm |
+| 15 | **A Covenant Broken?** | 8 Oct 2025 | CDISC's fee restructuring threatens the social covenant with volunteers and risks barriers to adoption |
+| 16 | **Connecting the Dots** | 23 Oct 2025 | The big-picture vision: USDM as foundation for a connected data layer removing silos across safety, analysis, and operations |
+| 17 | **Two Questions and an Onion** | 2 Dec 2025 | Data first, documents second. The onion model: build from the study science core outward. AI works best on structured foundations |
+| 18 | **Year-End Reflections** | 19 Dec 2025 | Myth-busting: premature compliance claims, USDM doesn't add requirements, the iPhone analogy, and a defence of idealism |
+| 19 | **The Devil is in the Detail** | Feb 2026 | M11 through a writer's eyes; practical friction between document labels and data model needs; CT alignment challenges |
+
+
 ## Articles
 
 - [BioMedical Concepts – The Key to Unlocking Meaningful Clinical Data](https://www.clinflo.com/biomedical-concepts-the-key-to-unlocking-meaningful-clinical-data/) by Doug Bain.
 - [Unlocking Clinical Trial Efficiency with the Unified Study Definition Model (USDM)](https://www.linkedin.com/pulse/unlocking-clinical-trial-efficiency-unified-study-basia-7huoe/?trackingId=h2LFLnjTRoK10O%2BR6bLI9g%3D%3D) by Basia Coulter, Ph.D., M.Sc.
+- Transcelerate DDF Use Cases, LinkedIn post [with link in the post](https://www.linkedin.com/posts/digital-data-flow_ddf-usdm-digitaldataflow-activity-7426659554626576384-CNVL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA51QwBghCAJ2HEhiuN2EFzhRi5_QyYfc8)
+- [Clinical Leader](https://www.clinicalleader.com/doc/digital-protocols-are-at-an-inflection-point-a-conversation-with-novartis-and-transcelerate-leaders-0001)
+
+## LinkedIn 
+
+Useful LinkedIn accounts
+
+- [Transcelerate DDF](https://www.linkedin.com/company/digital-data-flow/posts/?feedView=all)
 
 ## Presentations on Behalf of CDISC
 
@@ -161,7 +199,6 @@ The official outputs from the event:
 
 - [Event Summary Report](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/mission-possible/DDF_Mission_Possible_Summary_Report.pdf)
 - [Presentations](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/mission-possible/DDF_Mission_Possible_Master_Presentation.pdf)
-
 
 ## White Papers
 
