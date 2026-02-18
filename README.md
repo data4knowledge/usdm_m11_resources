@@ -156,7 +156,7 @@ List of editions:
 | 17 | [What is a SoA?](https://www.linkedin.com/pulse/what-soa-dave-iberson-hurst-partner-at-d4k-gzkaf/) | 6 Nov 2025 | A deep interrogation of what "SoA" actually means — introducing study logic, the timeline model, the Google Maps analogy, and the distinction between study science, study logic, and study narrative |
 | 18 | [Two Questions and an Onion](https://www.linkedin.com/pulse/two-questions-onion-dave-iberson-hurst-partner-at-d4k-9y4gf/) | 2 Dec 2025 | Data first, documents second. The onion model: build from the study science core outward. AI works best on structured foundations |
 | 19 | [Year-End Reflections](https://www.linkedin.com/pulse/view-from-coffee-shop-year-end-reflections-dave-p5tie/) | 19 Dec 2025 | Myth-busting: premature compliance claims, USDM doesn't add requirements, the iPhone analogy, and a defence of idealism |
-| 20 | [ICH M11 and USDM: Mind the Gap](https://www.linkedin.com/pulse/ich-m11-usdm-mind-gap-dave-iberson-hurst-partner-at-d4k-yutwe/) | Feb 2026 | M11 through a writer's eyes; practical friction between document labels and data model needs; CT alignment challenges |
+| 20 | [ICH M11 and USDM: Mind the Gap](https://www.linkedin.com/pulse/ich-m11-usdm-mind-gap-dave-iberson-hurst-partner-at-d4k-yutwe/) | 9 Feb 2026 | M11 through a writer's eyes; practical friction between document labels and data model needs; CT alignment challenges |
 
 
 ## Articles
