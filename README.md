@@ -164,7 +164,7 @@ List of editions:
 - [BioMedical Concepts – The Key to Unlocking Meaningful Clinical Data](https://www.clinflo.com/biomedical-concepts-the-key-to-unlocking-meaningful-clinical-data/) by Doug Bain.
 - [Unlocking Clinical Trial Efficiency with the Unified Study Definition Model (USDM)](https://www.linkedin.com/pulse/unlocking-clinical-trial-efficiency-unified-study-basia-7huoe/?trackingId=h2LFLnjTRoK10O%2BR6bLI9g%3D%3D) by Basia Coulter, Ph.D., M.Sc.
 - Transcelerate DDF Use Cases, LinkedIn post [with link in the post](https://www.linkedin.com/posts/digital-data-flow_ddf-usdm-digitaldataflow-activity-7426659554626576384-CNVL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA51QwBghCAJ2HEhiuN2EFzhRi5_QyYfc8)
-- [Clinical Leader](https://www.clinicalleader.com/doc/digital-protocols-are-at-an-inflection-point-a-conversation-with-novartis-and-transcelerate-leaders-0001)
+- Digital Protocols Are At An Inflection Point: A Conversation With Novartis And TransCelerate Leaders [Clinical Leader](https://www.clinicalleader.com/doc/digital-protocols-are-at-an-inflection-point-a-conversation-with-novartis-and-transcelerate-leaders-0001)
 
 ## LinkedIn 
 
