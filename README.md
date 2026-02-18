@@ -136,27 +136,27 @@ I publish a [LinkedIn newsletter](https://www.linkedin.com/newsletters/view-from
 List of editions:
 
 
-| # | Title | Date | Core Argument |
-|---|-------|------|---------------|
-| 1 | **Ripples** | 4 Mar 2025 | USDM will become the single source of truth; change will reach every corner like ripples on a pond |
-| 2 | **The Document Model Dichotomy** | 11 Mar 2025 | How USDM reconciles the tension between protocol documents and structured data models — the detailed technical explanation |
-| 3 | **New ICH M11 Specifications** | 17 Mar 2025 | Announcement: M11 Technical Specification released for public review |
-| 4 | **Corners and Edges** | 24 Mar 2025 | USDM provides the missing jigsaw pieces — the foundation that frames everything else |
-| 5 | **Mapping ICH M11 to USDM: A Visual Guide** | 2 Apr 2025 | Infographic revealing the SOA as a massive structured area hidden behind a single line in M11 |
-| 6 | **Hello World** | 7 May 2025 | Most users don't need to see USDM's internals — just as Word users never see XML. A detailed walkthrough of what gets digitised and why |
-| 7 | **A Poster in Utrecht** | 20 May 2025 | PHUSE CSS poster connecting M11, USDM, and implementation; the value of face-to-face events |
-| 8 | **Thoughts From Geneva** | 21 May 2025 | Two moments at CDISC Interchange that crystallise the goal: linking study design to data so we can defeat diseases, not just speak to regulators |
-| 9 | **Diamonds in the Legs** | 4 Jun 2025 | USDM v4 released — four years of work reaches its summit. Phase 5 shifts to adoption |
-| 10 | **Hamburg and Magic Sauce** | 18 Jun 2025 | The technology demonstrator that captured industry attention; common USDM questions; preview of PHUSE Hamburg |
-| 11 | **USDM Controlled Terminology** | 25 Jun 2025 | Infographic mapping coded attributes to their controlled terminology code lists — a practical implementation aid |
-| 12 | **Solid Foundations** | 14 Jul 2025 | If one reason to adopt USDM: "solid foundation." Also addresses CRO benefits — they didn't write the protocol, so digital clarity matters even more |
-| 13 | **Train Leaving The Station** | 18 Sep 2025 | Industry had a decade for SDTM (2004–2016); there won't be a decade for M11/USDM. The train is leaving |
-| 14 | **Road to ...** | 26 Sep 2025 | Reflections from TransCelerate Mission Possible: "yes, we got this right." USDM has crossed (or is crossing) the adoption chasm |
-| 15 | **A Covenant Broken?** | 8 Oct 2025 | CDISC's fee restructuring threatens the social covenant with volunteers and risks barriers to adoption |
-| 16 | **Connecting the Dots** | 23 Oct 2025 | The big-picture vision: USDM as foundation for a connected data layer removing silos across safety, analysis, and operations |
-| 17 | **Two Questions and an Onion** | 2 Dec 2025 | Data first, documents second. The onion model: build from the study science core outward. AI works best on structured foundations |
-| 18 | **Year-End Reflections** | 19 Dec 2025 | Myth-busting: premature compliance claims, USDM doesn't add requirements, the iPhone analogy, and a defence of idealism |
-| 19 | **The Devil is in the Detail** | Feb 2026 | M11 through a writer's eyes; practical friction between document labels and data model needs; CT alignment challenges |
+| # | Title | Date | Topic |
+|:---|:-------|:------|:---------------|
+| 1 | Ripples | 4 Mar 2025 | USDM will become the single source of truth; change will reach every corner like ripples on a pond |
+| 2 | The Document Model Dichotomy | 11 Mar 2025 | How USDM reconciles the tension between protocol documents and structured data models — the detailed technical explanation |
+| 3 | New ICH M11 Specifications | 17 Mar 2025 | Announcement: M11 Technical Specification released for public review |
+| 4 | Corners and Edges | 24 Mar 2025 | USDM provides the missing jigsaw pieces — the foundation that frames everything else |
+| 5 | Mapping ICH M11 to USDM: A Visual Guide | 2 Apr 2025 | Infographic revealing the SOA as a massive structured area hidden behind a single line in M11 |
+| 6 | Hello World | 7 May 2025 | Most users don't need to see USDM's internals — just as Word users never see XML. A detailed walkthrough of what gets digitised and why |
+| 7 | A Poster in Utrecht | 20 May 2025 | PHUSE CSS poster connecting M11, USDM, and implementation; the value of face-to-face events |
+| 8 | Thoughts From Geneva | 21 May 2025 | Two moments at CDISC Interchange that crystallise the goal: linking study design to data so we can defeat diseases, not just speak to regulators |
+| 9 | Diamonds in the Legs | 4 Jun 2025 | USDM v4 released — four years of work reaches its summit. Phase 5 shifts to adoption |
+| 10 | Hamburg and Magic Sauce | 18 Jun 2025 | The technology demonstrator that captured industry attention; common USDM questions; preview of PHUSE Hamburg |
+| 11 | USDM Controlled Terminology | 25 Jun 2025 | Infographic mapping coded attributes to their controlled terminology code lists — a practical implementation aid |
+| 12 | Solid Foundations | 14 Jul 2025 | If one reason to adopt USDM: "solid foundation." Also addresses CRO benefits — they didn't write the protocol, so digital clarity matters even more |
+| 13 | Train Leaving The Station | 18 Sep 2025 | Industry had a decade for SDTM (2004–2016); there won't be a decade for M11/USDM. The train is leaving |
+| 14 | Road to ... | 26 Sep 2025 | Reflections from TransCelerate Mission Possible: "yes, we got this right." USDM has crossed (or is crossing) the adoption chasm |
+| 15 | A Covenant Broken? | 8 Oct 2025 | CDISC's fee restructuring threatens the social covenant with volunteers and risks barriers to adoption |
+| 16 | Connecting the Dots | 23 Oct 2025 | The big-picture vision: USDM as foundation for a connected data layer removing silos across safety, analysis, and operations |
+| 17 | Two Questions and an Onion | 2 Dec 2025 | Data first, documents second. The onion model: build from the study science core outward. AI works best on structured foundations |
+| 18 | Year-End Reflections | 19 Dec 2025 | Myth-busting: premature compliance claims, USDM doesn't add requirements, the iPhone analogy, and a defence of idealism |
+| 19 | The Devil is in the Detail | Feb 2026 | M11 through a writer's eyes; practical friction between document labels and data model needs; CT alignment challenges |
 
 
 ## Articles
