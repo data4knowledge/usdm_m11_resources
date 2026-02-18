@@ -135,14 +135,6 @@ I publish a [LinkedIn newsletter](https://www.linkedin.com/newsletters/view-from
 
 List of editions:
 
-
-
-
-
-
-
-
-
 | # | Title | Date | Topic |
 |:---|:-------|:------|:---------------|
 | 1 | [Ripples](https://www.linkedin.com/pulse/ripples-dave-iberson-hurst-partner-at-d4k-gd7cf/) | 4 Mar 2025 | USDM will become the single source of truth; change will reach every corner like ripples on a pond |
@@ -156,8 +148,7 @@ List of editions:
 | 9 | [Thoughts From Geneva](https://www.linkedin.com/pulse/thoughts-from-geneva-dave-iberson-hurst-partner-at-d4k-yfuaf/) | 21 May 2025 | Two moments at CDISC Interchange that crystallise the goal: linking study design to data so we can defeat diseases, not just speak to regulators |
 | 10 | [Diamonds in the Legs](https://www.linkedin.com/pulse/diamonds-legs-dave-iberson-hurst-partner-at-d4k-qiwnf/) | 4 Jun 2025 | USDM v4 released — four years of work reaches its summit. Phase 5 shifts to adoption |
 | 11 | [Hamburg and Magic Sauce](https://www.linkedin.com/pulse/hamburg-magic-sauce-dave-iberson-hurst-partner-at-d4k-toksf/) | 18 Jun 2025 | The technology demonstrator that captured industry attention; common USDM questions; preview of PHUSE Hamburg |
-| 12 | [USDM Controlled Terminology](https://www.linkedin.com/pulse/usdm-controlled-terminology-dave-iberson-hurst-partner-at-d4k-wyyof/
-) | 25 Jun 2025 | Infographic mapping coded attributes to their controlled terminology code lists — a practical implementation aid |
+| 12 | [USDM Controlled Terminology](https://www.linkedin.com/pulse/usdm-controlled-terminology-dave-iberson-hurst-partner-at-d4k-wyyof/) | 25 Jun 2025 | Infographic mapping coded attributes to their controlled terminology code lists — a practical implementation aid |
 | 13 | [Solid Foundations](https://www.linkedin.com/pulse/solid-foundations-dave-iberson-hurst-partner-at-d4k-rkktf/) | 14 Jul 2025 | If one reason to adopt USDM: "solid foundation." Also addresses CRO benefits — they didn't write the protocol, so digital clarity matters even more |
 | 14 | [Train Leaving The Station](https://www.linkedin.com/pulse/train-leaving-station-dave-iberson-hurst-partner-at-d4k-lsvyf/) | 18 Sep 2025 | Industry had a decade for SDTM (2004–2016); there won't be a decade for M11/USDM. The train is leaving |
 | 15 | [Road to ...](https://www.linkedin.com/pulse/road-dave-iberson-hurst-partner-at-d4k-e333f/) | 26 Sep 2025 | Reflections from TransCelerate Mission Possible: "yes, we got this right." USDM has crossed (or is crossing) the adoption chasm |
