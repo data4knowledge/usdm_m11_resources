@@ -160,9 +160,9 @@ List of editions:
 
 ## Use Cases
 
-An initial set of use cases developed by TransCelerate. The use cases are documented in an Excel workbook. The workbook catalogues **30 USDM/DDF use cases** spanning the full clinical trial lifecycle, organised into **5 categories** and **18 classes**. Each use case has a dedicated worksheet, with the Table of Contents sheet providing the master index. The structure maps out how USDM-sourced study design data flows into and enables downstream systems — from early concept through to regulatory submission.
+### General
 
-## Use Cases by Category
+An initial set of use cases developed by TransCelerate. The use cases are documented in an Excel workbook. The workbook catalogues **30 USDM/DDF use cases** spanning the full clinical trial lifecycle, organised into **5 categories** and **18 classes**. Each use case has a dedicated worksheet, with the Table of Contents sheet providing the master index. The structure maps out how USDM-sourced study design data flows into and enables downstream systems — from early concept through to regulatory submission.
 
 ### Protocol Store (1 use case)
 
@@ -212,7 +212,7 @@ An initial set of use cases developed by TransCelerate. The use cases are docume
 - **Review Study Protocol** — Regulator reviews a submitted study protocol in structured form.
 - **Compare Actual to Planned Treatment Progression** — Regulator reviews protocol compliance using SDTM datasets against the planned design.
 
-A direct link to [the use case workbook][https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Ftranscelerate.github.io%2Fddf-home%2Fdocuments%2Fuse-cases%2FDDF_Use_Cases_FEB2026.xlsx]
+A direct link to [the use case workbook](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Ftranscelerate.github.io%2Fddf-home%2Fdocuments%2Fuse-cases%2FDDF_Use_Cases_FEB2026.xlsx)
 
 ## Articles
 
