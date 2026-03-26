@@ -94,7 +94,7 @@ Note the "Deliverables" directory within the repo where you will find ... the de
 In the "Documents" directory you will find supporting information and examples. Couple of things worth noting
 
 - [Informational diagram](https://github.com/cdisc-org/DDF-RA/blob/main/Documents/DDF%20USDM%20Model%20Informative.png). This is a different representation of the UML, with API infomration added, see the key top right.
-- The [changes directory](https://github.com/cdisc-org/DDF-RA/tree/main/Documents/Changes) holds the changes made during phase 3.
+- The [changes directory](https://github.com/cdisc-org/DDF-RA/tree/main/Documents/Changes) holds the changes made during phase 4.
 
 # Tools
 
@@ -106,6 +106,14 @@ In the "Documents" directory you will find supporting information and examples. 
 ## Protocol2USDM
 
 - Access the [Github library](https://github.com/Panikos/Protocol2USDMv3) and look at the readme
+
+## d4k technology Demonstrator
+
+Not a tool as such, a demonstrator built by d4k to show the potential of USDM. It can take USDM and execute the study defined therein, allow for subject data to be added and generate study artefacts such as define.xml and sdtm data domains. Some videos showing the demonstrator in action:
+
+- [Protocol to SDTM in 15 minutes](https://www.linkedin.com/posts/johannes-ulander_protocol-pdf-to-sdtm-in-15-minutes-a-5-minutes-activity-7338890765890113537-bmAm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOl9S4BqhJyW3PQu2Ij-O0nzW8vrlAfagU)
+- [BCs and Study Activities](https://www.linkedin.com/posts/johannes-ulander_usdm-biomedicalconcepts-activity-7265414556775038978-Qfeh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOl9S4BqhJyW3PQu2Ij-O0nzW8vrlAfagU)
+- [CDISC EU Interchange 2024 demo](https://www.linkedin.com/posts/johannes-ulander_cdisctmf2024europe-cdisc-usdm-activity-7196041756730109953-76_A?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOl9S4BqhJyW3PQu2Ij-O0nzW8vrlAfagU)
 
 # Background Information
 
