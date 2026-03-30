@@ -30,6 +30,12 @@ These are the final, adopted, versions of the M11 documents.
 - [Template Specifcation](https://database.ich.org/sites/default/files/ICH_Step4_M11_Final_Template_2025_1119.pdf)
 - [Technical Specification](https://database.ich.org/sites/default/files/ICH_Step4_M11_Final_TechnicalSpecification_2025_1119.pdf)
 
+## Merged Electronic M11 Version
+
+The M11 documents are just that, documents. For some of the work that I undertake I wanted to be able to view the Template and the Technical spec side-by-side. I also wanted to align the two specs and check for any "wrinkles". So I have processed the two documents and merged into a static, small web-site. 
+
+You can download a [zip file](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/downloads/m11_specification_v0-14-0.zip) to somewhere convienient for you, expand the zip file and enter the expanded directory. Find the file ```index.html```, double click and it should launch within your browser.
+
 ## Previous M11 Version
 
 These are the links to the previous versions of the M11 specifications. The template and techncial specifications were published in mid-March 2025:
