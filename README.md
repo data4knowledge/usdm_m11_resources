@@ -2,6 +2,8 @@
 
 ## Latest Updates
 
+- [Newsletter index updated](#newsletter) — 22 Apr 2026
+- [ACDM 2026 Berlin Presentation](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/presentations/d4k/2026%2003%20ACDM%20-%20DIH.pdf) — 22 Apr 2026
 - [USDM Backbone infographic added](#infographics) — 22 Apr 2026
 - [Merged Electronic M11 Version (zip download) added](#merged-electronic-m11-version) — 30 Mar 2026
 - [d4k technology Demonstrator videos added](#d4k-technology-demonstrator) — 26 Mar 2026
@@ -202,11 +204,16 @@ List of editions:
 | 13 | [Solid Foundations](https://www.linkedin.com/pulse/solid-foundations-dave-iberson-hurst-partner-at-d4k-rkktf/) | 14 Jul 2025 | If one reason to adopt USDM: "solid foundation." Also addresses CRO benefits — they didn't write the protocol, so digital clarity matters even more |
 | 14 | [Train Leaving The Station](https://www.linkedin.com/pulse/train-leaving-station-dave-iberson-hurst-partner-at-d4k-lsvyf/) | 18 Sep 2025 | Industry had a decade for SDTM (2004–2016); there won't be a decade for M11/USDM. The train is leaving |
 | 15 | [Road to ...](https://www.linkedin.com/pulse/road-dave-iberson-hurst-partner-at-d4k-e333f/) | 26 Sep 2025 | Reflections from TransCelerate Mission Possible: "yes, we got this right." USDM has crossed (or is crossing) the adoption chasm |
-| 16 | [Connecting the Dots](https://www.linkedin.com/pulse/connecting-dots-dave-iberson-hurst-partner-at-d4k-kez8f/) | 23 Oct 2025 | The big-picture vision: USDM as foundation for a connected data layer removing silos across safety, analysis, and operations |
-| 17 | [What is a SoA?](https://www.linkedin.com/pulse/what-soa-dave-iberson-hurst-partner-at-d4k-gzkaf/) | 6 Nov 2025 | A deep interrogation of what "SoA" actually means — introducing study logic, the timeline model, the Google Maps analogy, and the distinction between study science, study logic, and study narrative |
-| 18 | [Two Questions and an Onion](https://www.linkedin.com/pulse/two-questions-onion-dave-iberson-hurst-partner-at-d4k-9y4gf/) | 2 Dec 2025 | Data first, documents second. The onion model: build from the study science core outward. AI works best on structured foundations |
-| 19 | [Year-End Reflections](https://www.linkedin.com/pulse/view-from-coffee-shop-year-end-reflections-dave-p5tie/) | 19 Dec 2025 | Myth-busting: premature compliance claims, USDM doesn't add requirements, the iPhone analogy, and a defence of idealism |
-| 20 | [ICH M11 and USDM: Mind the Gap](https://www.linkedin.com/pulse/ich-m11-usdm-mind-gap-dave-iberson-hurst-partner-at-d4k-yutwe/) | 9 Feb 2026 | M11 through a writer's eyes; practical friction between document labels and data model needs; CT alignment challenges |
+| 17 | [Connecting the Dots](https://www.linkedin.com/pulse/connecting-dots-dave-iberson-hurst-partner-at-d4k-kez8f/) | 23 Oct 2025 | The big-picture vision: USDM as foundation for a connected data layer removing silos across safety, analysis, and operations |
+| 18 | [What is a SoA?](https://www.linkedin.com/pulse/what-soa-dave-iberson-hurst-partner-at-d4k-gzkaf/) | 6 Nov 2025 | A deep interrogation of what "SoA" actually means — introducing study logic, the timeline model, the Google Maps analogy, and the distinction between study science, study logic, and study narrative |
+| 19 | [Two Questions and an Onion](https://www.linkedin.com/pulse/two-questions-onion-dave-iberson-hurst-partner-at-d4k-9y4gf/) | 2 Dec 2025 | Data first, documents second. The onion model: build from the study science core outward. AI works best on structured foundations |
+| 20 | [Year-End Reflections](https://www.linkedin.com/pulse/view-from-coffee-shop-year-end-reflections-dave-p5tie/) | 19 Dec 2025 | Myth-busting: premature compliance claims, USDM doesn't add requirements, the iPhone analogy, and a defence of idealism |
+| 21 | [ICH M11 and USDM: Mind the Gap](https://www.linkedin.com/pulse/ich-m11-usdm-mind-gap-dave-iberson-hurst-partner-at-d4k-yutwe/) | 9 Feb 2026 | M11 through a writer's eyes; practical friction between document labels and data model needs; CT alignment challenges |
+| 22 | [First Year](https://www.linkedin.com/pulse/first-year-dave-iberson-hurst-partner-at-d4k-ldaue/) | An AI review of the first year's articles picking out the key points, it turned out to be useful! |
+| 23 | [Precison](https://www.linkedin.com/pulse/precision-dave-iberson-hurst-partner-at-d4k-hnhne/) | An article on how USDM timeliines allow us to be precise in our study designs |
+| 24 | [ICH M11 at your Fingertips](https://www.linkedin.com/pulse/ich-m11-your-fingertips-dave-iberson-hurst-partner-at-d4k-mnb5e/) | An electronic version of the ICH M11 specification | 
+| 25 | [USDM, Where Do I Start, Part I](https://www.linkedin.com/pulse/usdm-where-do-i-start-part-dave-iberson-hurst-partner-at-d4k-bpnwe/) | USDM and where do I start, part I |
+
 
 ## Use Cases
 
