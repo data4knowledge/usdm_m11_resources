@@ -137,6 +137,7 @@ Couple of infographics that I have produced during the development of the USDM
 - USDM and M11 Classes. This infographic shows which USDM classes are used to support the M11 protocol template. Based on the latest public review version of the template and USDM v4. [USDM M11 Classes Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/usdm_m11_classes.pdf)
 - USDM and CT. This infographic shows all the code lists used across the USDM as a quick reference guide. Useful for implementators. As usual, zoom in to see the detail. [USDM Controlled Terminology](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/usdm_ct_infographic.pdf)
 - USDM Expansion. This infographic shows how USDM timelines implement SoAs with high precision. [USDM Expansion](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/usdm_expansion.pdf)
+- USDM Backbone. This infographic attempts to show how USDM can be used as the basis for a clinical trial backbone. [USDM Backbone](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/backbone.pdf)
 
 ## Posters
 
