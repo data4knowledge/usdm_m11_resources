@@ -1,5 +1,40 @@
 # USDM and ICH M11 Resources
 
+## Latest Updates
+
+- [USDM Backbone infographic added](#infographics) — 22 Apr 2026
+- [Merged Electronic M11 Version (zip download) added](#merged-electronic-m11-version) — 30 Mar 2026
+- [d4k technology Demonstrator videos added](#d4k-technology-demonstrator) — 26 Mar 2026
+- [USDM Expansion infographic added](#infographics) — 3 Mar 2026
+
+## Table of Contents
+
+- [ICH M11](#ich-m11)
+  - [M11 Working Group](#m11-working-group)
+  - [Addopted M11 Versions](#addopted-m11-versions)
+  - [Merged Electronic M11 Version](#merged-electronic-m11-version)
+  - [Previous M11 Version](#previous-m11-version)
+- [USDM](#usdm)
+  - [Phases](#phases)
+  - [CDISC DDF-RA USDM GitHub](#cdisc-ddf-ra-usdm-github)
+- [Tools](#tools)
+  - [Study Definition Workbench](#study-definition-workbench)
+  - [Protocol2USDM](#protocol2usdm)
+  - [d4k technology Demonstrator](#d4k-technology-demonstrator)
+- [Background Information](#background-information)
+  - [Infographics](#infographics)
+  - [Posters](#posters)
+  - [Newsletter](#newsletter)
+  - [Use Cases](#use-cases)
+  - [Articles](#articles)
+  - [LinkedIn](#linkedin)
+  - [Presentations on Behalf of CDISC](#presentations-on-behalf-of-cdisc)
+  - [d4k Presentations](#d4k-presentations)
+  - [2024 "DDF in Action" Day](#2024-ddf-in-action-day)
+  - [2025 "Mission Possible" Day](#2025-mission-possible-day)
+  - [White Papers](#white-papers)
+  - [PRISM](#prism)
+
 ## General
 
 This is an informative repo just holding a series of resource related to the Unified Studies Definition Model and the ICH M11 Protocol Template Specification.
