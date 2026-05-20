@@ -2,6 +2,7 @@
 
 ## Latest Updates
 
+- [CDISC EU Milan](#newsletter) — 20 May 2026
 - [Newsletter index updated](#newsletter) — 22 Apr 2026
 - [ACDM 2026 Berlin Presentation](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/presentations/d4k/2026%2003%20ACDM%20-%20DIH.pdf) — 22 Apr 2026
 - [USDM Backbone infographic added](#infographics) — 22 Apr 2026
@@ -213,6 +214,8 @@ List of editions:
 | 23 | [Precison](https://www.linkedin.com/pulse/precision-dave-iberson-hurst-partner-at-d4k-hnhne/) | An article on how USDM timeliines allow us to be precise in our study designs |
 | 24 | [ICH M11 at your Fingertips](https://www.linkedin.com/pulse/ich-m11-your-fingertips-dave-iberson-hurst-partner-at-d4k-mnb5e/) | An electronic version of the ICH M11 specification | 
 | 25 | [USDM, Where Do I Start, Part I](https://www.linkedin.com/pulse/usdm-where-do-i-start-part-dave-iberson-hurst-partner-at-d4k-bpnwe/) | USDM and where do I start, part I |
+| 26 | [USDM, Where Do I Start, Part II](https://www.linkedin.com/pulse/usdm-where-do-i-start-part-ii-dave-iberson-hurst-partner-at-d4k-escqe/) | USDM and where do I start, part II |
+| 27 | [Real-time, near-time, some-time?](https://www.linkedin.com/pulse/real-time-near-time-some-time-dave-iberson-hurst-partner-at-d4k-pvope/) | Some initial thoughts on the FDA's real time clinical trials initiative |
 
 
 ## Use Cases
@@ -291,6 +294,12 @@ A series of presentations going back over the last few years from a number of di
 ## d4k Presentations
 
 Presentations made by d4k can be found in this [directory](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/presentations/d4k)
+
+## 2026 EU Intercahnge Milan
+
+- [Presentation](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/presentations/2026%20eu%20milan/slides.pdf)
+- [Movie](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/presentations/2026%20eu%20milan/annimation.mov)
+- [Associated infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/usdm_expansion.pdf)
 
 ## 2024 "DDF in Action" Day
 
