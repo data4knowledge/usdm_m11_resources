@@ -295,7 +295,9 @@ A series of presentations going back over the last few years from a number of di
 
 Presentations made by d4k can be found in this [directory](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/presentations/d4k)
 
-## 2026 EU Intercahnge Milan
+## 2026 EU Interchange Milan
+
+Presentation and the associated video from the EU Interchange in Milan
 
 - [Presentation](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/presentations/2026%20eu%20milan/slides.pdf)
 - [Movie](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/presentations/2026%20eu%20milan/annimation.mov)
