@@ -2,7 +2,7 @@
 
 ## Latest Updates
 
-- [CDISC EU Milan](#2026-eu-intercahnge-milan) — 20 May 2026
+- [CDISC EU Milan](https://github.com/data4knowledge/usdm_m11_resources#2026-eu-interchange-milan) — 20 May 2026
 - [Newsletter index updated](#newsletter) — 22 Apr 2026
 - [ACDM 2026 Berlin Presentation](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/presentations/d4k/2026%2003%20ACDM%20-%20DIH.pdf) — 22 Apr 2026
 - [USDM Backbone infographic added](#infographics) — 22 Apr 2026
