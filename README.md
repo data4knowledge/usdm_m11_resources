@@ -212,13 +212,13 @@ List of editions:
 | 19 | [Two Questions and an Onion](https://www.linkedin.com/pulse/two-questions-onion-dave-iberson-hurst-partner-at-d4k-9y4gf/) | 2 Dec 2025 | Data first, documents second. The onion model: build from the study science core outward. AI works best on structured foundations |
 | 20 | [Year-End Reflections](https://www.linkedin.com/pulse/view-from-coffee-shop-year-end-reflections-dave-p5tie/) | 19 Dec 2025 | Myth-busting: premature compliance claims, USDM doesn't add requirements, the iPhone analogy, and a defence of idealism |
 | 21 | [ICH M11 and USDM: Mind the Gap](https://www.linkedin.com/pulse/ich-m11-usdm-mind-gap-dave-iberson-hurst-partner-at-d4k-yutwe/) | 9 Feb 2026 | M11 through a writer's eyes; practical friction between document labels and data model needs; CT alignment challenges |
-| 22 | [First Year](https://www.linkedin.com/pulse/first-year-dave-iberson-hurst-partner-at-d4k-ldaue/) | An AI review of the first year's articles picking out the key points, it turned out to be useful! |
-| 23 | [Precison](https://www.linkedin.com/pulse/precision-dave-iberson-hurst-partner-at-d4k-hnhne/) | An article on how USDM timeliines allow us to be precise in our study designs |
-| 24 | [ICH M11 at your Fingertips](https://www.linkedin.com/pulse/ich-m11-your-fingertips-dave-iberson-hurst-partner-at-d4k-mnb5e/) | An electronic version of the ICH M11 specification | 
-| 25 | [USDM, Where Do I Start, Part I](https://www.linkedin.com/pulse/usdm-where-do-i-start-part-dave-iberson-hurst-partner-at-d4k-bpnwe/) | USDM and where do I start, part I |
-| 26 | [USDM, Where Do I Start, Part II](https://www.linkedin.com/pulse/usdm-where-do-i-start-part-ii-dave-iberson-hurst-partner-at-d4k-escqe/) | USDM and where do I start, part II |
-| 27 | [Real-time, near-time, some-time?](https://www.linkedin.com/pulse/real-time-near-time-some-time-dave-iberson-hurst-partner-at-d4k-pvope/) | Some initial thoughts on the FDA's real time clinical trials initiative |
-| 28 | [Thought from Milan](https://www.linkedin.com/pulse/thoughts-from-milan-dave-iberson-hurst-yg15e/) | Thoughts on the CDISC EU Interchange in Milan |
+| 22 | [First Year](https://www.linkedin.com/pulse/first-year-dave-iberson-hurst-partner-at-d4k-ldaue/) | 20 Feb 2026 | An AI review of the first year's articles picking out the key points, it turned out to be useful! |
+| 23 | [Precison](https://www.linkedin.com/pulse/precision-dave-iberson-hurst-partner-at-d4k-hnhne/) | 4 Mar 2026 | An article on how USDM timeliines allow us to be precise in our study designs |
+| 24 | [ICH M11 at your Fingertips](https://www.linkedin.com/pulse/ich-m11-your-fingertips-dave-iberson-hurst-partner-at-d4k-mnb5e/) | 30 Mar 2026 | An electronic version of the ICH M11 specification | 
+| 25 | [USDM, Where Do I Start, Part I](https://www.linkedin.com/pulse/usdm-where-do-i-start-part-dave-iberson-hurst-partner-at-d4k-bpnwe/) | 21 April 2026 | USDM and where do I start, part I |
+| 26 | [USDM, Where Do I Start, Part II](https://www.linkedin.com/pulse/usdm-where-do-i-start-part-ii-dave-iberson-hurst-partner-at-d4k-escqe/) | 28 April 2026 | USDM and where do I start, part II |
+| 27 | [Real-time, near-time, some-time?](https://www.linkedin.com/pulse/real-time-near-time-some-time-dave-iberson-hurst-partner-at-d4k-pvope/) | 30 April 2026 | Some initial thoughts on the FDA's real time clinical trials initiative |
+| 28 | [Thoughts from Milan](https://www.linkedin.com/pulse/thoughts-from-milan-dave-iberson-hurst-yg15e/) | 25 May 2026 | Thoughts on the CDISC EU Interchange in Milan |
 
 ## Use Cases
 
