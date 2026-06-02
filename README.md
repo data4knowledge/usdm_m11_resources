@@ -2,7 +2,9 @@
 
 ## Latest Updates
 
-- [CDISC EU Milan](https://github.com/data4knowledge/usdm_m11_resources#2026-eu-interchange-milan) — 20 May 2026
+- [Article added](#articles) — 2 June 2026
+- [Newsletter index updated](#newsletter) — 2 June 2026
+- [CDISC EU Milan presentation and video](https://github.com/data4knowledge/usdm_m11_resources#2026-eu-interchange-milan) — 20 May 2026
 - [Newsletter index updated](#newsletter) — 22 Apr 2026
 - [ACDM 2026 Berlin Presentation](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/presentations/d4k/2026%2003%20ACDM%20-%20DIH.pdf) — 22 Apr 2026
 - [USDM Backbone infographic added](#infographics) — 22 Apr 2026
@@ -216,7 +218,7 @@ List of editions:
 | 25 | [USDM, Where Do I Start, Part I](https://www.linkedin.com/pulse/usdm-where-do-i-start-part-dave-iberson-hurst-partner-at-d4k-bpnwe/) | USDM and where do I start, part I |
 | 26 | [USDM, Where Do I Start, Part II](https://www.linkedin.com/pulse/usdm-where-do-i-start-part-ii-dave-iberson-hurst-partner-at-d4k-escqe/) | USDM and where do I start, part II |
 | 27 | [Real-time, near-time, some-time?](https://www.linkedin.com/pulse/real-time-near-time-some-time-dave-iberson-hurst-partner-at-d4k-pvope/) | Some initial thoughts on the FDA's real time clinical trials initiative |
-
+| 28 | [Thought from Milan](https://www.linkedin.com/pulse/thoughts-from-milan-dave-iberson-hurst-yg15e/) | Thoughts on the CDISC EU Interchange in Milan |
 
 ## Use Cases
 
@@ -280,6 +282,7 @@ A direct link to [the use case workbook](https://view.officeapps.live.com/op/vie
 - [Unlocking Clinical Trial Efficiency with the Unified Study Definition Model (USDM)](https://www.linkedin.com/pulse/unlocking-clinical-trial-efficiency-unified-study-basia-7huoe/?trackingId=h2LFLnjTRoK10O%2BR6bLI9g%3D%3D) by Basia Coulter, Ph.D., M.Sc.
 - Transcelerate DDF Use Cases, LinkedIn post [with link in the post](https://www.linkedin.com/posts/digital-data-flow_ddf-usdm-digitaldataflow-activity-7426659554626576384-CNVL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA51QwBghCAJ2HEhiuN2EFzhRi5_QyYfc8)
 - Digital Protocols Are At An Inflection Point: A Conversation With Novartis And TransCelerate Leaders [Clinical Leader](https://www.clinicalleader.com/doc/digital-protocols-are-at-an-inflection-point-a-conversation-with-novartis-and-transcelerate-leaders-0001)
+- A linked article that includes a paper on [USDM and M11](https://www.linkedin.com/feed/update/urn:li:activity:7466537081398427648/) by Ron Fitzmartin
 
 ## LinkedIn 
 
