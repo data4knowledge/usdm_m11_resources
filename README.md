@@ -77,8 +77,8 @@ The M11 documents are just that, documents. For some of the work that I undertak
 
 You can download a [zip file](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/downloads/m11_specification_v0-16-0.zip) and ...
 
-Mac Users: Copy it to wherever you want to have the M11 specification and then double click on the .zip file. It will expand into a sub folder. Open the folder and double click on the `index.html` file.
-Windows Users: Right-click on the zip → select "Extract All". This will allow you to select the folder where the zip will be extracted. Open the folder and double click on the `index.html` file.
+- Mac Users: Copy it to wherever you want to have the M11 specification and then double click on the .zip file. It will expand into a sub folder. Open the folder and double click on the `index.html` file.
+- Windows Users: Right-click on the zip → select "Extract All". This will allow you to select the folder where the zip will be extracted. Open the folder and double click on the `index.html` file.
 
 There is a [LinkedIn article](https://www.linkedin.com/pulse/ich-m11-your-fingertips-dave-iberson-hurst-partner-at-d4k-mnb5e/) providing some more information.
 
