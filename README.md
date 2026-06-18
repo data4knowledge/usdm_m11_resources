@@ -2,6 +2,7 @@
 
 ## Latest Updates
 
+- [Electronic M11 spec update](#merged-electronic-m11-version) — 18 June 2026
 - [Electronic M11 spec update](#merged-electronic-m11-version) — 17 June 2026
 - [Article added](#articles) — 2 June 2026
 - [Newsletter index updated](#newsletter) — 2 June 2026
@@ -75,7 +76,7 @@ These are the final, adopted, versions of the M11 documents.
 
 The M11 documents are just that, documents. For some of the work that I undertake I wanted to be able to view the Template and the Technical spec side-by-side. I also wanted to align the two specs and check for any "wrinkles". So I have processed the two documents and merged into a static, small web-site. 
 
-You can download a [zip file](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/downloads/m11_specification_v0-16-0.zip) and ...
+You can download a [zip file](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/downloads/m11_specification_v0-17-0.zip) and ...
 
 - Mac Users: Copy it to wherever you want to have the M11 specification and then double click on the .zip file. It will expand into a sub folder. Open the folder and double click on the `index.html` file.
 - Windows Users: Right-click on the zip → select "Extract All". This will allow you to select the folder where the zip will be extracted. Open the folder and double click on the `index.html` file.
