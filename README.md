@@ -293,16 +293,18 @@ A direct link to [the use case workbook](https://view.officeapps.live.com/op/vie
 - [Unlocking Clinical Trial Efficiency with the Unified Study Definition Model (USDM)](https://www.linkedin.com/pulse/unlocking-clinical-trial-efficiency-unified-study-basia-7huoe/?trackingId=h2LFLnjTRoK10O%2BR6bLI9g%3D%3D) by Basia Coulter, Ph.D., M.Sc.
 - Transcelerate DDF Use Cases, LinkedIn post [with link in the post](https://www.linkedin.com/posts/digital-data-flow_ddf-usdm-digitaldataflow-activity-7426659554626576384-CNVL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA51QwBghCAJ2HEhiuN2EFzhRi5_QyYfc8)
 - Digital Protocols Are At An Inflection Point: A Conversation With Novartis And TransCelerate Leaders [Clinical Leader](https://www.clinicalleader.com/doc/digital-protocols-are-at-an-inflection-point-a-conversation-with-novartis-and-transcelerate-leaders-0001)
-- A linked article that includes a paper on [USDM and M11](https://www.linkedin.com/feed/update/urn:li:activity:7466537081398427648/) by Ron Fitzmartin
+- A LinkedIn article that includes a paper on [USDM and M11](https://www.linkedin.com/feed/update/urn:li:activity:7466537081398427648/) by Ron Fitzmartin
+- A LinkedIn article on [The Computable Protocol Revisited](https://www.linkedin.com/feed/update/urn:li:activity:7477416352916385792/) by Ron Fitzmartin
 
 ## Papers
 
-Some papers by others that are too valuable to lose, so I keep a copy safe here
+Some papers by others that are too valuable to lose, so I keep a copy safe here. Credit & copyright belongs to the respective authors.
 
-- [Ron Fitzmartin: Authoring M11/USDM Protocolsfor Structured Review and Reuse](documents/papers/Fitzmartin_M11UsdmProtocols_May-2026.pdf)
+- [Ron Fitzmartin: Authoring M11/USDM Protocols for Structured Review and Reuse](documents/papers/Fitzmartin_M11UsdmProtocols_May-2026.pdf)
 - [Ron Fitzmartin: The Computable Protocol Revisited](documents/papers/Fitzmartin_ComputableProtocolRevisited_June-2026.pdf) 
 - [TransCelerate: Participant & Site Burden Resource Landscape for Protocol Optimization](documents/papers/TCB_ParticipantSiteBurdenResourceLandscapeProtocolOptimization_June-2026.pdf)
 - [TransCelerate: Practical Approach to Implementing Digital Data Flow. A Framework to Getting Started](documents/papers/TCB_PracticalApproachToImplementation_Aug-2025.pdf)
+- [TransCelerate: Technology Architecture Scenarios Tool](documents/papers/TCB_TechnologyArchitectureScenariosTool.pdf)
 
 ## Guides
 
