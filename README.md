@@ -2,6 +2,9 @@
 
 ## Latest Updates
 
+- [CDISC Guides](#guides) - 14 August 2026
+- [USDM related papers](#papers) - 14 August 2026
+- [USDM example data](#examples) - 14 August 2026
 - [Electronic M11 spec update](#merged-electronic-m11-version) — 18 June 2026
 - [Electronic M11 spec update](#merged-electronic-m11-version) — 17 June 2026
 - [Article added](#articles) — 2 June 2026
@@ -226,6 +229,7 @@ List of editions:
 | 26 | [USDM, Where Do I Start, Part II](https://www.linkedin.com/pulse/usdm-where-do-i-start-part-ii-dave-iberson-hurst-partner-at-d4k-escqe/) | 28 April 2026 | USDM and where do I start, part II |
 | 27 | [Real-time, near-time, some-time?](https://www.linkedin.com/pulse/real-time-near-time-some-time-dave-iberson-hurst-partner-at-d4k-pvope/) | 30 April 2026 | Some initial thoughts on the FDA's real time clinical trials initiative |
 | 28 | [Thoughts from Milan](https://www.linkedin.com/pulse/thoughts-from-milan-dave-iberson-hurst-yg15e/) | 25 May 2026 | Thoughts on the CDISC EU Interchange in Milan |
+| 29 | [Foundation, Patterns and SoAs](https://www.linkedin.com/pulse/foundation-patterns-soas-dave-iberson-hurst-v4nde/) | 17 June 2026 | Layered approach to the SoA |
 
 ## Use Cases
 
@@ -291,6 +295,25 @@ A direct link to [the use case workbook](https://view.officeapps.live.com/op/vie
 - Digital Protocols Are At An Inflection Point: A Conversation With Novartis And TransCelerate Leaders [Clinical Leader](https://www.clinicalleader.com/doc/digital-protocols-are-at-an-inflection-point-a-conversation-with-novartis-and-transcelerate-leaders-0001)
 - A linked article that includes a paper on [USDM and M11](https://www.linkedin.com/feed/update/urn:li:activity:7466537081398427648/) by Ron Fitzmartin
 
+## Papers
+
+Some papers by others that are too valuable to lose, so I keep a copy safe here
+
+- [Ron Fitzmartin: Authoring M11/USDM Protocolsfor Structured Review and Reuse](documents/papers/Fitzmartin_M11UsdmProtocols_May-2026.pdf)
+- [Ron Fitzmartin: The Computable Protocol Revisited](documents/papers/Fitzmartin_ComputableProtocolRevisited_June-2026.pdf) 
+- [TransCelerate: Participant & Site Burden Resource Landscape for Protocol Optimization](documents/papers/TCB_ParticipantSiteBurdenResourceLandscapeProtocolOptimization_June-2026.pdf)
+- [TransCelerate: Practical Approach to Implementing Digital Data Flow. A Framework to Getting Started](documents/papers/TCB_PracticalApproachToImplementation_Aug-2025.pdf)
+
+## Guides
+
+CDISC has started publishing guides and the first is now out. Find them [here](https://www.cdisc.org/ddf) click on the "Implementation Handbooks" tab.
+
+## Examples
+
+Sources of USDM example data
+
+- [PA Consulting site offering examples](https://protocolexplorer.io/browse). Currenly limited number.
+
 ## LinkedIn 
 
 Useful LinkedIn accounts
@@ -332,10 +355,6 @@ The official outputs from the event:
 
 - [Event Summary Report](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/mission-possible/DDF_Mission_Possible_Summary_Report.pdf)
 - [Presentations](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/mission-possible/DDF_Mission_Possible_Master_Presentation.pdf)
-
-## White Papers
-
-- TransCelerate white paper [Practical Approach to Implementing Digital Data Flow: A Framework to Getting Started](https://transcelerate.github.io/ddf-home/documents/white_paper/DDF_Practical_Approach_to_Implementation.pdf)
 
 ## PRISM
 
