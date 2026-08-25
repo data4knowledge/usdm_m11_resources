@@ -37,12 +37,15 @@
   - [Newsletter](#newsletter)
   - [Use Cases](#use-cases)
   - [Articles](#articles)
+  - [Papers](#papers)
+  - [Guides](#guides)
+  - [Examples](#examples)
   - [LinkedIn](#linkedin)
   - [Presentations on Behalf of CDISC](#presentations-on-behalf-of-cdisc)
   - [d4k Presentations](#d4k-presentations)
+  - [2026 EU Interchange Milan](#2026-eu-interchange-milan)
   - [2024 "DDF in Action" Day](#2024-ddf-in-action-day)
   - [2025 "Mission Possible" Day](#2025-mission-possible-day)
-  - [White Papers](#white-papers)
   - [PRISM](#prism)
 
 ## General
@@ -102,7 +105,7 @@ The previous versions of the M11 documents (from 2022) can be found here:
 
 ## General
 
-USDM, the Unified Study Definitions Model, is a new [CDISC](www.cdisc.org) standard developed in conjunction with [TransCelerate](https://www.transceleratebiopharmainc.com/). 
+USDM, the Unified Study Definitions Model, is a new [CDISC](https://www.cdisc.org) standard developed in conjunction with [TransCelerate](https://www.transceleratebiopharmainc.com/). 
 
 The USDM is focused on protocol digitization. See [the CDISC DDF page](https://www.cdisc.org/ddf) where there are plenty of links to various USDM & DDF resources. Links off to the various CDISC and TransCelerate resources can be found here including:
 
@@ -343,9 +346,9 @@ Presentation and the associated video from the EU Interchange in Milan
 The DDF in Action day was held in October 2024 in Copenhagen and New Jersey. It was day for sponsors, vendors and others to share eperiences and information about DDF and to see, well, DDF in action! Couple of items from the day:
 
 - The use cases infrographic, [Use Case Infographic](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/infographics/use%20cases.png) and associated [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7255527712906199042/) (repeated from above).
-- [Official TransCelerate](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/ddf-in-action/DDF%20in%20Action%20Day%20Readout.pdf) readout from the day.
-- [CPH slide deck](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/ddf-in-action/DDF%20in%20Action%20Day%20Presentation_CPH.pdf) 
-- [NJ slide deck](https://github.com/data4knowledge/usdm_m11_resources/tree/main/documents/ddf-in-action/DDF%20in%20Action%20Day%20Presentation_NJ.pdf)
+- [Official TransCelerate](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/ddf-in-action/DDF%20in%20Action%20Day%20Readout.pdf) readout from the day.
+- [CPH slide deck](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/ddf-in-action/DDF%20in%20Action%20Day%20Presentation_CPH.pdf) 
+- [NJ slide deck](https://github.com/data4knowledge/usdm_m11_resources/blob/main/documents/ddf-in-action/DDF%20in%20Action%20Day%20Presentation_NJ.pdf)
 
 The official TransCelerate [Report Page](https://transcelerate.github.io/ddf-home/ddf-in-action.html)
 
